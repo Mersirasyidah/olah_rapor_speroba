@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+pytz
+xlsxwriter
+reportlab  # Tambahkan baris ini
+
+
+
