@@ -1,9 +1,1 @@
-streamlit
-pandas
-openpyxl
-pytz
-xlsxwriter
-reportlab  # Tambahkan baris ini
-
-
-
+streamlit>=1.31.0
